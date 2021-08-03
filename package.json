@@ -1,0 +1,19 @@
+{
+  "name": "quizor",
+  "version": "1.0.0",
+  "description": "quiz mto foda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaakla/quizor.git"
+  },
+  "author": "Xaakla/Vexwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xaakla/quizor/issues"
+  },
+  "homepage": "https://github.com/Xaakla/quizor#readme"
+}
